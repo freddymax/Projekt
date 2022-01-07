@@ -35,6 +35,13 @@ public class Var {
             System.out.println("Bilder konnten nicht geladen werden");
 
         }
+   
+    
+   Musik.musik("Audio/maxinfor.wav"); 
+    
     }
 
+
+    
+    
 }

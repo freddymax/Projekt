@@ -8,7 +8,7 @@ public class Main {
         new KeyHandler();
         new Label();
         new PlayerMovement();
-
+       
 
 
     }
