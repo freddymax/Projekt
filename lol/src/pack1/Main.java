@@ -2,7 +2,7 @@ package pack1;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
         new Gui();
         new Var();
         new KeyHandler();
@@ -10,7 +10,8 @@ public class Main {
         new PlayerMovement();
        
 
-
+        
+        
     }
 
 }

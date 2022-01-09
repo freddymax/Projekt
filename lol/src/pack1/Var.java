@@ -38,6 +38,8 @@ public class Var {
    
     
    Musik.musik("Audio/maxinfor.wav"); 
+  // Musik.musik("Audio/maxinfotest.wav");
+  // Musik.musik2("Audio/freddymax5.wav");
     
     }
 
